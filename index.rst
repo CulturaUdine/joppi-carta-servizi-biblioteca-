@@ -4,7 +4,7 @@
 CARTA DEI SERVIZI DELLA BIBLIOTECA CIVICA JOPPI
 ###############################################
 
-\ |STYLE0|\  
+\ |STYLE0|\ 
 
 \ |IMG1|\ 
 
@@ -37,7 +37,7 @@ CARTA DEI SERVIZI DELLA BIBLIOTECA CIVICA JOPPI
 .. bottom of content
 
 
-.. |STYLE0| replace:: *Approvata con  Deliberazione di Giunta Comunale n… del …….*
+.. |STYLE0| replace:: *Approvata con  Deliberazione di Giunta Comunale n 10 del  201712*
 
 
 .. |REPLACE1| raw:: html
